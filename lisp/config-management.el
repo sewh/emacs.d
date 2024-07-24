@@ -21,3 +21,5 @@
 (setq flag/magit 't)
 (setq flag/rg 't)
 (setq flag/org-modern 't)
+(setq flag/projectile 't)
+(setq flag/helm 't)

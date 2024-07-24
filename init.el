@@ -14,3 +14,4 @@
 (require 'org-config)
 (require 'wgrep-config)
 (require 'rg-config)
+(require 'projectile-config)
