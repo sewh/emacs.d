@@ -16,3 +16,4 @@
 (setq flag/wgrep 't)
 (setq flag/magit 't)
 (setq flag/rg 't)
+(setq flag/org-modern 't)

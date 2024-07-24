@@ -2,3 +2,4 @@
 #+AUTHOR: sewh
 
 This is a simple Emacs config designed to be modular. Toggle flags in ~./lisp/config-management.el~. If all flags are disabled then packages won't be retrieved from the network (but Emacs will be a lot more limited).
+

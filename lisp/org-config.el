@@ -8,3 +8,10 @@
 	     ("C-c c" . org-capture))
       :hook (org-mode . visual-line-mode)
       ))
+
+(if flag/org-modern
+    (use-package org-modern
+      :ensure t
+      :hook (org-mode . global-org-modern-mode)
+      :bind ("C-c m" . org-modern-mode))
+    )
