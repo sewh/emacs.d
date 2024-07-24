@@ -23,4 +23,5 @@
 (setq flag/org-modern 't)
 (setq flag/projectile 't)
 (setq flag/helm 't)
-
+(setq flag/treesitter 't)
+(setq flag/eglot 't)

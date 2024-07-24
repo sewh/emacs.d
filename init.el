@@ -16,3 +16,5 @@
 (require 'wgrep-config)
 (require 'rg-config)
 (require 'projectile-config)
+(require 'treesitter-config)
+(require 'eglot-config)
