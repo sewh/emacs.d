@@ -1,0 +1,4 @@
+#+TITLE: emacs.d readme
+#+AUTHOR: sewh
+
+This is a simple Emacs config designed to be modular. Toggle flags in ~./lisp/config-management.el~.
