@@ -15,4 +15,4 @@
 (if (and flag/org flag/helm)
     (use-package helm-org-rifle
       :ensure t
-      :bind ("C-c o" . helm-org-rifle)))
+      :bind ("C-c r" . helm-org-rifle)))
