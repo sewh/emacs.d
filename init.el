@@ -18,3 +18,6 @@
 (require 'projectile-config)
 (require 'treesitter-config)
 (require 'eglot-config)
+(require 'company-config)
+(require 'golang-config)
+
