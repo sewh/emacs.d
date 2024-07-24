@@ -9,6 +9,7 @@
 (require 'user-fonts-config)
 (require 'file-backup-config)
 (require 'elisp-config)
+(require 'helm-config)
 (require 'editorconfig-config)
 (require 'custom-variable-file-config)
 (require 'org-config)
