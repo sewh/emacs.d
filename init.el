@@ -7,6 +7,7 @@
 (require 'package-config)
 (require 'ui-config)
 (require 'line-number-config)
+(require 'basic-text-config)
 (require 'user-fonts-config)
 (require 'file-backup-config)
 (require 'helm-config)
