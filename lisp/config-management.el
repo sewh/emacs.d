@@ -27,3 +27,4 @@
 (setq flag/eglot 't)
 (setq flag/golang 't)
 (setq flag/company 't)
+(setq flag/caddyfile 't)

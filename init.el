@@ -21,3 +21,4 @@
 (require 'eglot-config)
 (require 'company-config)
 (require 'golang-config)
+(require 'caddyfile-config)
