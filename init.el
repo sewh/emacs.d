@@ -2,6 +2,7 @@
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
 ;; Call custom scripts
+(require 'custom-variable-file-config)
 (require 'config-management)
 (require 'package-config)
 (require 'ui-config)
@@ -9,8 +10,8 @@
 (require 'user-fonts-config)
 (require 'file-backup-config)
 (require 'helm-config)
+(require 'magit-config)
 (require 'editorconfig-config)
-(require 'custom-variable-file-config)
 (require 'elisp-config)
 (require 'org-config)
 (require 'wgrep-config)
@@ -20,4 +21,3 @@
 (require 'eglot-config)
 (require 'company-config)
 (require 'golang-config)
-
